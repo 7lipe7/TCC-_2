@@ -1,0 +1,35 @@
+
+body {
+    display: flex;
+    background-color: #f0f0f0;
+    align-content: center;
+    justify-content: center;
+    margin: 190px;
+}
+
+.login{
+    background-color: rgb(25, 25, 52);
+    color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 290px;
+    height: 290px;
+    align-content: center;
+    justify-content: center;
+}
+
+input{
+    border-radius: 5px;
+    width: 250px;
+    margin-bottom: 15px;
+    height: 30px;
+}
+
+button{
+    width: 250px;
+    background-color: rgb(0, 199, 199);
+    border-radius: 10px;
+    color: white;
+}
+
